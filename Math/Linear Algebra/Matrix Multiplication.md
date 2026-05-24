@@ -44,3 +44,7 @@ $$
 >In general we can find composition matrix with
 >
 ![](assets/matrix-multiplication/Matrix-Multiplication-Formulas.png)
+>
+>When we multiply matrix with matrix or matrix with vector 
+>ex : M1 X M2 the no. of cols in M1 must be equal to no. of rows in M2. Similarly when we do M X $\vec{v}$ no. of cols in M must be equal to no. of rows in col/vector must be of size = no. of cols of M.
+ 
