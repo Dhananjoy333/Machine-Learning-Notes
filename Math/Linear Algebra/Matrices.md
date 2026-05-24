@@ -57,9 +57,19 @@ $$
 $$
 
 In our case for Linear Transformation we use this matrix to represent the transformed position of $\hat{i}$ and $\hat{j}$.
+
 ![](assets/matrices/matrix.png)
 
 >[! Important]
 >In general if we have a vector $\vec{v}=\begin{bmatrix}x\\y\end{bmatrix}$ and we do a Linear transformation where $\hat{i}$ and $\hat{j}$ final position is written in matrix as $\begin{bmatrix}a&b\\c&d\end{bmatrix}$
 >
 ![](assets/matrices/Screenshot%20(481).png)
+
+Hence, in Linear Algebra matrix is basically numerical representation of the Linear transformation.
+Few more transformation :
+
+![697](more-transformations.png)
+
+If we do a transformation where $\hat{i}$ and $\hat{j}$ become linearly dependent. The vector will always lie on the overlapping line i.e, span.
+
+![](dependent-matrix.png)
